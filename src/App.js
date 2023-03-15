@@ -172,7 +172,7 @@ const App = () => {
             <div className='row outline border-radius'>
               <div className='p-3'>
                 <h2>Arcade</h2>
-                <a style={{ color: "white" }} href="javascript:void" >change</a>
+                <button style={{ color: "black" }}>change</button>
                 <div style={{marginTop:'-5px'}}>
                   <p>$9/mo</p>
                 </div>
